@@ -1,0 +1,4 @@
+disabled_rules:
+  - force_cast # good dedfault, but used internally for type erasure
+trailing_comma:
+  mandatory_comma: true
